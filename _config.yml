@@ -5,7 +5,6 @@ author_name:        "Youngnam Lee" # change this to your name
 
 # Site Settings
 url:                https://utopianami.github.io # main url
-baseurl:            /the-plain
 permalink:          /:title # Post permalink
 timezone:           Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
